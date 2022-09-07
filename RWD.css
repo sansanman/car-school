@@ -1,0 +1,129 @@
+@media screen and (max-width: 780px){
+    header{
+        height: 80px;
+    }
+    
+    .header-container{
+        height: 80px;
+    }
+    
+    .header-left img{
+        height: 80px;
+    }
+    
+    .header-right{
+        margin-top: 15px;
+    }
+    
+    .header-right a{
+        font-size: 14px;
+        margin-right: 8px;
+    }
+    
+    .top-container{
+        padding-top: 115px;
+        padding-bottom: 15px;
+    }
+    
+    .top-container img{
+        width: 75%;
+        height: 250px;
+    }
+    
+    .main-container{
+        padding-top: 75px;
+        padding-bottom: 15px;
+    }
+    
+    .main-container h2{
+        font-size: 25px;
+    }
+    
+    main a{
+        font-size: 14px;
+    }
+    
+    .right{
+        width: 350px;
+        height: 480px;
+        margin-left: 10%;
+    }
+    
+    .item1, .item2{
+        display: block;
+        padding-bottom: 15px;
+    }
+    
+    .item1 img, .item2 img{
+        width: 300px;
+        height: 350px;
+    }
+    
+    .item1{
+        position: absolute;
+        top: 14%;
+        left: 28%;
+    }
+    
+    .item1-1 p{
+        position: absolute;
+        top: 25%;
+        left: 38%;
+    }
+    
+    .item1-2 p{
+        position: absolute;
+        top: 74%;
+        left: 39%;
+    }
+    
+    .main-2{
+        margin-top: 490px;
+        padding-bottom: 400px;
+    }
+
+    .item2{
+        position: absolute;
+        top: 64%;
+        left: 28%;
+    }
+    
+    .item2-1 p{
+        position: absolute;
+        top: 23%;
+        left: 42%;
+    }
+    
+    .item2-2 p{
+        position: absolute;
+        top: 72%;
+        left: 36%;
+    }
+    
+    footer{
+        padding-bottom: 15px;
+        text-align: center;
+    }
+    
+    .footer-container{
+        display: block;
+    }
+    
+    .footer-container h2{
+        margin: 0;
+        margin-bottom: 25px;
+        padding-top: 15px;
+    }
+    
+    .footer-container p{
+        margin: 0;
+        padding: 0;
+        margin-bottom: 10px;
+    }
+    
+    .footer-right iframe{
+        height: 85%;
+    }
+}
+
+
